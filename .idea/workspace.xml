@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41dc7d73-09c7-4432-9675-72cb3246f31a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -217,7 +216,7 @@
       <workItem from="1536829779744" duration="94000" />
       <workItem from="1536829902589" duration="12585000" />
       <workItem from="1537167158229" duration="26247000" />
-      <workItem from="1537252905318" duration="6573000" />
+      <workItem from="1537252905318" duration="7335000" />
     </task>
     <servers />
   </component>
@@ -236,7 +235,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45499000" />
+    <option name="totallyTimeSpent" value="46261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

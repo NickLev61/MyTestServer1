@@ -1,25 +1,19 @@
 # README
+ * Установка Ruby on Rails:
+   1) $ sudo apt-get install ruby-full #установит последнюю версию Ruby
+   2) $ ruby -v #проверка версии Ruby
+   3) $ gem install rails #установит программу Rails
+   4) $ rails --version #проверка версии Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ * Скачивание сервера из репозитория на GitHub
 
-Things you may want to cover:
+ * Находим папку с сервером на Ruby, открываем с помощью командной строки
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ * Подключение и создание базы данных через консоль
+    1) $ mysql -u username -ppassword #подключение пользователя
+    2) $ create database database_name; #создание базы данных
+    3) $ create user user_name@localhost identified by 'password'; #создание пользователя
+    4) $ mysql -u имя_пользователя -p -h имя_хоста #указать IP-адрес сервера
+   
+ * Для запуска сервера набираем команду $ rails s
 # MyTestServerRuby
