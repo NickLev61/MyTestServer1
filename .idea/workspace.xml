@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41dc7d73-09c7-4432-9675-72cb3246f31a" name="Default" comment="" />
+    <list default="true" id="41dc7d73-09c7-4432-9675-72cb3246f31a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +46,8 @@
       <file leaf-file-name="todos_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="42" column="79" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="79" />
+            <state relative-caret-position="495">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -230,7 +232,7 @@
       <workItem from="1536829779744" duration="94000" />
       <workItem from="1536829902589" duration="12585000" />
       <workItem from="1537167158229" duration="26247000" />
-      <workItem from="1537252905318" duration="541000" />
+      <workItem from="1537252905318" duration="1045000" />
     </task>
     <servers />
   </component>
@@ -249,7 +251,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39467000" />
+    <option name="totallyTimeSpent" value="39971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,7 +263,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1053" extended-state="7" />
+    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32901832" />
@@ -440,8 +442,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="42" column="79" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="79" />
+        <state relative-caret-position="495">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
