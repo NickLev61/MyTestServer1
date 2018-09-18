@@ -10,10 +10,8 @@
  * Находим папку с сервером на Ruby, открываем с помощью командной строки
 
  * Подключение и создание базы данных через консоль
-    1) $ mysql -u username -ppassword #подключение пользователя
-    2) $ create database database_name; #создание базы данных
-    3) $ create user user_name@localhost identified by 'password'; #создание пользователя
-    4) $ mysql -u имя_пользователя -p -h имя_хоста #указать IP-адрес сервера
-   
+    1) $ rake db:create - создание database
+    2) $ rake db:migrate - выполнение миграции
+
  * Для запуска сервера набираем команду $ rails s
 # MyTestServerRuby
