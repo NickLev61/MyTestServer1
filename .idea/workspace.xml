@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41dc7d73-09c7-4432-9675-72cb3246f31a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +47,8 @@
       <file leaf-file-name="todos_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+            <state relative-caret-position="990">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -142,22 +143,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="RailsServer1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RailsServer1" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RailsServer1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RailsServer1" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RailsServer1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RailsServer1" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="migrate" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -232,7 +217,7 @@
       <workItem from="1536829779744" duration="94000" />
       <workItem from="1536829902589" duration="12585000" />
       <workItem from="1537167158229" duration="26247000" />
-      <workItem from="1537252905318" duration="1604000" />
+      <workItem from="1537252905318" duration="6573000" />
     </task>
     <servers />
   </component>
@@ -251,7 +236,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40530000" />
+    <option name="totallyTimeSpent" value="45499000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/todos_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        <state relative-caret-position="990">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>

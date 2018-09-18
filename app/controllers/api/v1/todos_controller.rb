@@ -6,7 +6,7 @@ module Api
                 todos = Todo.all
                 respond_to do |format|
                     format.html {
-                        render :index
+                        render json:todos
                     }
                     format.json {
                         render json: todos
@@ -18,7 +18,7 @@ module Api
                 todo = Todo.find(params[:id])
                 respond_to do |format|
                     format.html {
-                        render :show
+                        render json:todo
                     }
                     format.json {
                         render json: todo
@@ -30,7 +30,7 @@ module Api
                 todo = Todo.create(task: params[:task], condition: params[:condition])
                 respond_to do |format|
                     format.html {
-                        render :create
+                        render json:todo
                     }
                     format.json {
                         render json: todo
@@ -44,7 +44,7 @@ module Api
 
                 respond_to do |format|
                     format.html {
-                        render :edit
+                        render json:todo
                     }
                     format.json {
                         render json:todo
@@ -57,7 +57,7 @@ module Api
                 todo.destroy
                 respond_to do |format|
                     format.html {
-                        render :destroy
+                        render json:todo
                     }
                     format.json {
                         render json:todo
